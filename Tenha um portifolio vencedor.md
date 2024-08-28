@@ -26,7 +26,7 @@ Através da Talent Match, você tem acesso as melhores oportunidades de emprego 
 
 
 
-####
+#### Processo do resultado: 
     Criar Portfólio -> ->
                          Destaque -> ->
                                       Ganhar Oportunidades.
