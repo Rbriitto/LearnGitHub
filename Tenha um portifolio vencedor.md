@@ -14,13 +14,13 @@ Através da Talent Match, você tem acesso as melhores oportunidades de emprego 
 ### Desenvolva suas Habilidades. 
 
 
-| Hard Skills               |       Soft Skills      |
-|:------------------------- |-----------------------:|
-| Linguagem de Programação  | Trabalho em Equipe     |
-| Arquitetura de Sistemas   | Pensamento Crítico     |
-| Banco de Dados            | Gerenciamento do Tempo |
-| Stacks de Desenvolvimento | Comunicação            |
-| Ferramentas               | Liderança              |
+| Hard Skills               | |       Soft Skills      |
+|:-------------------------:|-|:----------------------:|
+| Linguagem de Programação  | | Trabalho em Equipe     |
+| Arquitetura de Sistemas   | | Pensamento Crítico     |
+| Banco de Dados            | | Gerenciamento do Tempo |
+| Stacks de Desenvolvimento | | Comunicação            |
+| Ferramentas               | | Liderança              |
 ------------------------------------------------------
 
 
