@@ -80,8 +80,7 @@ Sistemas de controle de versão<br>
 
 <html>
 
-<ul> <img src="vcs.png" width="300"> 
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  <img src="vcs.png" width="300px"> </ul>
+<ul> <img src = "DVCS.png" width="1000"> </ul>
 </html>
 
 
