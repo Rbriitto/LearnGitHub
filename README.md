@@ -9,13 +9,13 @@
 
 * [Tenha um Portifólio Vencedor](https://github.com/Rbriitto/NotesDio/blob/main/Tenha%20um%20portifolio%20vencedor.md)
 
-* [Debugging Java]()
+* [Debugging Java](https://github.com/Rbriitto/NotesDio/blob/main/Debugging.md)
 
-* [Modificadores]()
+* [Modificadores](https://github.com/Rbriitto/NotesDio/blob/main/Modificadores.md)
 
 * [UML]()
 
-* [Pilares do POO]()
+* [Pilares do POO](https://github.com/Rbriitto/NotesDio/blob/main/Pilares%20do%20Poo.md)
 
 
 
