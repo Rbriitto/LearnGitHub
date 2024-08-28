@@ -85,8 +85,6 @@ Sistemas de controle de versão<br>
 
 ### Leia a documentação do projeto 
 
-formato de link = [link](www.link.com).
-
 Criar o clone na máquina para fazer as alterações e posteriormente estar implementando ela 
 
 
