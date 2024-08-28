@@ -79,7 +79,7 @@ Sistemas de controle de versão<br>
 		Ex: Git, Mercurial. 
 
 <html>
-<ul> <img src = "img/DVCS.png" width="1000"> </ul>
+<ul> <img src = "img/DVC2S.png" width="1000"> </ul>
 </html>
 
 
